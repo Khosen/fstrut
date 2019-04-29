@@ -1,0 +1,20 @@
+{
+  "name": "fabstrut",
+  "version": "1.0.0",
+  "description": "shopping platform",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "bootstrap": "*",
+    "ejs": "*",
+    "express": "*",
+    "morgan": "^1.9.1",
+    "nodemon": "*"
+  },
+  "author": "kels",
+  "license": "ISC"
+}
